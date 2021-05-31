@@ -1,3 +1,4 @@
+/* comentario no js */
 let input = document.getElementById("item-input");
 let button = document.getElementById("item-button");
 let ul = document.getElementById("items");
